@@ -1,0 +1,41 @@
+
+body{
+    background-color: antiquewhite;
+    font-family: 'Times New Roman', Times, serif;
+}
+h3{
+   border:2px solid rgb(199, 155, 11);
+   border-radius: 8px;
+   padding:3px;
+}
+.red{
+    border-radius: 8px;
+    border-color:rgb(199, 155, 11) ;
+}
+.green{
+    border-color:rgb(199, 155, 11) ;
+}
+#key{
+    font-size:100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    text-align: center;
+    color:rgb(83, 8, 83);
+}
+img{
+    position: absolute;
+    top: 0px;
+    right: 2px;
+}
+#key2{
+    color: blueviolet;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    border-bottom: 3px solid red;
+    
+}
+table.red{
+    margin: 10px;
+    padding: 10px;
+}
+Show quoted text
