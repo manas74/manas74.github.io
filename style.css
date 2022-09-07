@@ -8,6 +8,7 @@ h3{
    border:2px solid rgb(199, 155, 11);
    border-radius: 8px;
    padding:3px;
+   width:100%;
 }
 .red{
     border-radius: 8px;
