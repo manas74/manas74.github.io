@@ -3,8 +3,8 @@ body{
     background-repeat: no-repeat;
     background-attachment: relative;
     background-size: cover;
-    width:100%;
-    height:100%;
+    width:min;
+    height:auto;
 }
 div.p{
     display: inline;
