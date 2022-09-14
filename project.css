@@ -1,0 +1,48 @@
+header{
+    display: flex;
+    background-color: silver;
+
+}h1.dm{
+    padding-left: 550px;
+}
+
+body
+{
+    background-image:url("https://www.techandall.com/wp-content/uploads/2013/10/techandall_wallpaper_1.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height:100vh;
+}header{
+    text-align: center;
+}
+.main{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;    
+}
+.p1{
+    border:solid 1px red;
+    border-radius: 8px;
+    margin-left: 200px;
+    margin-top: 120px;
+    padding: 40px;
+    background-color: lightpink;
+}
+.p2{
+    border:solid 1px red;
+    border-radius: 8px;
+    margin-right: 200px;
+    margin-top: 120px;
+    padding: 40px;
+    background-color: lightpink;
+}
+a.button{
+    border:solid red 1px;
+    border-radius: 8px;
+    background-color: cyan;
+}textarea{
+    rows:5;
+    cols:10;
+}
